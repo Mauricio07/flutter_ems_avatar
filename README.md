@@ -19,7 +19,7 @@ Add the following to your `pubspec.yaml` file:
 dependencies:
    ems_avatar:
       git:
-         url: https://github.com/your-repository/ems_avatar.git
+         url: [https://github.com/your-repository/ems_avatar.git](https://github.com/Mauricio07/flutter_ems_avatar)
 ```
 
 Then, run:
